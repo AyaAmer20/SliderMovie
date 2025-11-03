@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/silder/static/css/main.e573ca34.css",
+    "main.js": "/silder/static/js/main.1bff22d9.js",
+    "static/js/453.ee954f8b.chunk.js": "/silder/static/js/453.ee954f8b.chunk.js",
+    "static/media/1.png": "/silder/static/media/1.11ad8fda511c001daa68.png",
+    "static/media/2.png": "/silder/static/media/2.5bbfe672f8c5e8ef7c37.png",
+    "static/media/3.png": "/silder/static/media/3.e75ef0d22c2396952587.png",
+    "static/media/4.png": "/silder/static/media/4.f2d7e95ed6031f2d7bab.png",
+    "static/media/5.png": "/silder/static/media/5.08f0c14b0fc2999fda9d.png",
+    "index.html": "/silder/index.html",
+    "main.e573ca34.css.map": "/silder/static/css/main.e573ca34.css.map",
+    "main.1bff22d9.js.map": "/silder/static/js/main.1bff22d9.js.map",
+    "453.ee954f8b.chunk.js.map": "/silder/static/js/453.ee954f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e573ca34.css",
+    "static/js/main.1bff22d9.js"
+  ]
+}
