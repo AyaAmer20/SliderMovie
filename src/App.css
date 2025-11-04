@@ -1,0 +1,28 @@
+.netflix{
+  color:red;
+  text-align: center;
+}
+.Carousel{
+  overflow: hidden;
+  cursor: grab;
+  background-color: black;
+}
+.inner_Carousel{
+  display: flex;
+
+}
+.items{
+  min-height: 25rem;
+  min-width: 20rem;
+  padding: 20px 40px;
+}
+.items img{
+  width: 100%;
+  height: 100%;
+  border-radius: 2rem;
+  pointer-events: none;
+  transition: transform 0.3s ease;
+}
+.item img:hover {
+  transform: scale(1.2);
+}
